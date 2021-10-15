@@ -1,0 +1,36 @@
+body{
+    background-color: burlywood;
+}
+
+
+.headers-wrapper{
+    text-align: center;
+    text-decoration:underline;
+    font-size: 25px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+   
+    
+}
+
+.body-text{
+    text-align: center;
+    font-size: larger;
+    color: blue;
+}
+
+H1{
+    text-align: center;
+    color: blueviolet;
+}
+li{
+    margin-left: 40%;
+    font-size: large;
+    color: blueviolet;
+   
+
+}
+
+table{
+    margin-left: 40%;
+}
